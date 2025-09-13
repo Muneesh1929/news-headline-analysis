@@ -1,4 +1,6 @@
-# 📰 News Headline Classification with RNN
+# 📰 News Headline Classification with RNN  
+*Turning headlines into insights with deep learning.*
+
 
 This project builds a deep learning–based text classification model to categorize news headlines into 50 categories using **Recurrent Neural Networks (RNNs)** and **Natural Language Processing (NLP)**.
 
